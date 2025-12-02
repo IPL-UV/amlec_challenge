@@ -23,7 +23,7 @@
 # **Atmospheric Radiative Transfer Emulation Challenge (AMLEC)**
 
 > **Reference paper:** *Evaluating Machine Learning Emulators for Atmospheric Radiative Transfer: The AMLEC Challenge* 
-> **Authors:** Jorge Vicent, Jasdeep Singh, Axel Rochel, Julio Conteras, Panagiotis Liatsis, Hasan Al Marzouqi, and Gustau Camps-Valls.
+> **Authors:** Jorge Vicent, Jasdeep Singh, Axel Rochel, Julio Contreras, Panagiotis Liatsis, Hasan Al Marzouqi, and Gustau Camps-Valls.
 
 ## **Overview & abstract**
 
